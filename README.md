@@ -5,7 +5,7 @@ Integrantes do grupo:
 Ygor Souza de Oliveira,
 Yasmim Oliveira Candelária,
 Dalila Di Lazzaro e 
-Jefferson Davi
+Jefferson Davi.
 
 Tema do projeto:
 E-commerce para Web;
