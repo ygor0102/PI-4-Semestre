@@ -2,9 +2,9 @@
 
 Integrantes do grupo:
 
-Ygor Souza de Oliveira
-Yasmim Oliveira Candelária
-Dalila Di Lazzaro
+Ygor Souza de Oliveira,
+Yasmim Oliveira Candelária,
+Dalila Di Lazzaro e 
 Jefferson Davi
 
 Tema do projeto:
