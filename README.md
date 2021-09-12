@@ -11,8 +11,14 @@ Tema do projeto:
 E-commerce para Web;
 
 Área de atuação: 
-A definir;
+Loja de instrumentos Músicais
 
-Produtos / Serviços vendidos:
-A definir;
+Produtos vendidos:
+Violão,
+Guitarra,
+Contra-baixo,
+Piano,
+Teclado,
+Bateria e 
+Acessórios / itens como palhetas, baquetas, cordas, alças etc.
 
