@@ -1,0 +1,12 @@
+create table produto (
+id_produto INT not null primary key GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+nome varchar (300) not null,
+avaliacao int not null,
+descricao varchar (500) not null,
+status varchar (50) not null,
+preco decimal (10,2) not null,
+qtd_estoque integer not null
+);
+
+
+

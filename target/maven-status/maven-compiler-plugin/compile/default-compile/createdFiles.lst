@@ -1,0 +1,10 @@
+Servlet\Produto\PesquisarProduto.class
+DAO\ProdutoDAO.class
+Servlet\Produto\ProdutoServlet.class
+Servlet\Produto\InativarProduto.class
+Utils\Utils.class
+Model\Produto.class
+Utils\GerenciarConexao.class
+Model\Imagem.class
+Servlet\Produto\DetalhesProduto.class
+Servlet\Produto\AlterarProduto.class

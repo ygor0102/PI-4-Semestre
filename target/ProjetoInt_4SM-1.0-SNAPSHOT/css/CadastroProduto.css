@@ -1,0 +1,29 @@
+/*imagem do h1 e h2*/
+img{
+    height: 80px;
+}
+/*imagem lixeira*/
+.bin{
+    height: 20px; 
+}
+
+/*div class titulos h1 e h2*/
+.container{
+    display: flex;
+    align-items: center;
+}
+.legend{
+    display: flex;
+    align-items: center;
+    left: 50%;
+    font-style: bold;
+    font-family: "Segoe UI", "Arial";
+}
+
+body{
+    background-position:center;
+    background-image: url(../img/fundo.jpg) ;
+    background-repeat:no-repeat;
+    background-position: center center;
+    
+}

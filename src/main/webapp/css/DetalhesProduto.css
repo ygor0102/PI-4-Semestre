@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/09/2021, 17:28:39
+    Author     : ygor.oliveira
+*/
+.container img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    
+}
+
+.w-auto legend{
+    display: flex;
+    align-items: center;
+    left: 50%;
+    font-style: bold;
+    font-family: "Segoe UI", "Arial";
+}
+
+body{
+    background-position:center;
+    background-image: url(../img/fundo.jpg) ;
+    background-repeat:no-repeat;
+    background-position: center center;
+    
+}
+
+

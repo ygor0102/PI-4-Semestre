@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/09/2021, 08:46:54
+    Author     : dilaz
+*/
+
+/*imagem do h1 e h2*/
+img{
+    height: 80px;
+}
+
+/*imagem lixeira*/
+.bin{
+    height: 50px; 
+}
+
+/*div class titulos h1 e h2*/
+.container{
+    display: flex;
+    align-items: center;
+}
+.legend{
+    display: flex;
+    align-items: center;
+    left: 50%;
+    font-style: bold;
+    font-family: "Segoe UI", "Arial";
+}
+
+body{
+    background-position:center;
+    background-image: url(../img/fundo.jpg) ;
+    background-repeat:no-repeat;
+    background-position: center center;
+    
+}
+
+.containerIGM img{
+    
+    max-width:150px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+    border-radius: 30%;
+    padding-right: 100px;
+}
+
